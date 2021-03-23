@@ -9,17 +9,11 @@
 		<version>${revision}</version>
 	</parent>
 
-	<artifactId>module1</artifactId>
-	<name>module1</name>
+	<artifactId>module2</artifactId>
+	<name>module2</name>
 	<packaging>jar</packaging>
 
 	<dependencies>
-		<dependency>
-			<groupId>customer</groupId>
-			<artifactId>module2</artifactId>
-			<version>${revision}</version>
-		</dependency>
-
 	</dependencies>
 
 </project>
