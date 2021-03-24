@@ -43,11 +43,11 @@
 		</dependency>
 
         <!-- custom dependency: module 1 -->
-        <dependency>
+        <!-- <dependency>
 			<groupId>customer</groupId>
 			<artifactId>module1</artifactId>
 			<version>${revision}</version>
-		</dependency>
+		</dependency> -->
         
         
 	</dependencies>

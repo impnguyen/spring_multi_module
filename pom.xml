@@ -13,12 +13,16 @@
 		<revision>1.0.0-SNAPSHOT</revision>
 
 		<!-- DEPENDENCIES VERSION -->
-		<jdk.version>1.8</jdk.version>
+		<jdk.version>9</jdk.version>
 		<cds.services.version>1.13.1</cds.services.version>
 		<spring.boot.version>2.4.1</spring.boot.version>
 
 		<node.version>v12.16.1</node.version>
 		<node.url>https://nodejs.org/dist/</node.url>
+
+        <maven.compiler.release>9</maven.compiler.release>
+        <maven.compiler.source>1.9</maven.compiler.source>
+        <maven.compiler.target>1.9</maven.compiler.target>
 	</properties>
 
 	<modules>
